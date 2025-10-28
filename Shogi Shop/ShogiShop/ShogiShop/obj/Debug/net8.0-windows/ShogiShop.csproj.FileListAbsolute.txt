@@ -1,0 +1,14 @@
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.AssemblyInfoInputs.cache
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.AssemblyInfo.cs
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.csproj.CoreCompileInputs.cache
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\bin\Debug\net8.0-windows\ShogiShop.exe
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\bin\Debug\net8.0-windows\ShogiShop.deps.json
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\bin\Debug\net8.0-windows\ShogiShop.runtimeconfig.json
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\bin\Debug\net8.0-windows\ShogiShop.dll
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\bin\Debug\net8.0-windows\ShogiShop.pdb
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.dll
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\refint\ShogiShop.dll
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.pdb
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ShogiShop.genruntimeconfig.cache
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net8.0-windows\ref\ShogiShop.dll

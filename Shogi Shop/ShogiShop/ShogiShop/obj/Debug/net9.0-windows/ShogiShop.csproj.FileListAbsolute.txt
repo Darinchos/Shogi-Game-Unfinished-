@@ -1,0 +1,4 @@
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net9.0-windows\ShogiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net9.0-windows\ShogiShop.AssemblyInfoInputs.cache
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net9.0-windows\ShogiShop.AssemblyInfo.cs
+C:\Users\darin\Desktop\Shogi Shop\ShogiShop\ShogiShop\obj\Debug\net9.0-windows\ShogiShop.csproj.CoreCompileInputs.cache
